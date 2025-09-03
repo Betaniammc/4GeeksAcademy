@@ -1,0 +1,96 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Betania
+    last_name: Medina
+    
+    # Define yourself in 4-5 words
+    motto: responsible, committed, creative, empathetic, communicative
+    
+    # Focus
+    focus: 
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: 
+      Data-driven professional focused on transforming information into actionable insights.
+      skilled in data analysis, visualizacion, and statical modeling to support decision-making
+      and optimize processes. Experience with tools such as Python, SQL,  and Excel, with a strong commitment to
+      accuracy, clarity,  and continuos improvement.
+      Passionate about solving problems through data and contributing to business growth by delivering meaningful solutions.
+
+    
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: betania8293@gmail.com #optional
+    phone: 674776388 #optional
+    website: asd.com #optional
+    linkedin: alandoe #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: example
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+
+      - idiom: Spanish
+        level: Native
+
+    # Interests or hobbies
+    interests:
+      - item: traveling
+
+      - item: photographer
+
+      - item: Cooking
+
+# Your previous education
+education:
+    - degree: Ing en sistemas
+      university: Universidad de los Andes
+      university_logo: https://www.linkedin.com/school/university-of-the-andes-venezuela/posts/
+      time: 2011 - 2019
+      details:
+      during the course I acquired knowledge in software programming and development, 
+      database, modeling and simulation of systems, skills for solving mathematical and statistical 
+      problems along with data processing and analysis
+
+          -
+
+
+# Your project portfolio
+projects:
+   
+skills:
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: JavaScript 
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 98%
+       
+      - name: SQL Y MySQL 
+        level: 98%
+   
